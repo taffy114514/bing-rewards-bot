@@ -1,0 +1,75 @@
+# 搜索词库：一行一个，# 开头为注释
+# 程序会在词后随机追加后缀（推荐/2026/教程…）生成不重复的长尾查询
+# 建议保持 60 条以上，越多越安全
+
+红烧肉的家常做法
+空气炸锅 鸡翅 时间
+腰椎间盘突出 锻炼
+阳台种菜 西红柿
+笔记本电脑 散热 不好
+高铁 儿童票 身高标准
+五险一金 计算方式
+个人所得税 专项附加扣除
+二手房 交易 税费
+驾考科目二 倒车入库 技巧
+儿童 近视 防控
+猫咪 掉毛 严重
+空气净化器 滤芯 更换
+手机 电池 健康度
+云南 旅游 最佳季节
+周末 亲子 活动
+常见 植物 浇水 频率
+咖啡 手冲 水温
+净水器 反渗透 区别
+冰箱 除味 方法
+JavaScript 数组去重
+Python 读取 excel 合并
+Linux 查看端口占用
+nginx 反向代理 配置
+docker 清理 磁盘空间
+sql 分组 取最新一条
+git 撤销 最近一次提交
+正则 匹配 中文
+http 状态码 301 302 区别
+redis 持久化 方式
+excel 数据透视表 教程
+word 页眉 首页不同
+photoshop 抠图 头发
+pr 视频 导出 参数
+显卡 显存 作用
+固态硬盘 寿命
+电饭煲 内胆 材质
+洗衣液 和 洗衣凝珠 区别
+羽绒服 清洗 方法
+实木家具 保养
+电动牙刷 声波 和 旋转
+扫地机器人 激光导航
+空调 一匹 适合 多大面积
+燃气热水器 升数 选择
+婴儿 奶粉 分段
+老人 血压计 选购
+运动鞋 缓震 技术
+行李箱 尺寸 登机
+微波炉 加热 不均匀
+电风扇 直流 变频
+电热水壶 除垢
+窗帘 遮光 率
+床垫 软硬 选择
+除湿机 水箱 大小
+投影仪 流明 选择
+显示器 分辨率 缩放
+路由器 穿墙 模式
+充电宝 上飞机 规定
+护照 办理 材料
+港澳通行证 签注
+公积金 提取 条件
+best budget mechanical keyboard
+how to fix slow wifi router
+python pandas merge example
+css grid vs flexbox
+coffee grinder burr vs blade
+home office desk setup ideas
+how to train a puppy basic commands
+beginner guitar chords chart
+how to remove hard water stains
+best noise cancelling headphones 2026

@@ -1,0 +1,35 @@
+{
+  "locale": "zh-CN",
+  "timezone": "Asia/Shanghai",
+  "browser": {
+    "channel": "msedge",
+    "headless": false,
+    "userDataDir": "./profile",
+    "windowPosition": "-2400,-2400",
+    "windowSize": "1200,900",
+    "slowMo": 0,
+    "keepOpenMs": 0
+  },
+  "account": {
+    "email": "",
+    "password": "",
+    "autoLogin": false
+  },
+  "search": {
+    "desktop": { "enabled": true, "max": 32, "minDelay": 4, "maxDelay": 9 },
+    "mobile": { "enabled": true, "max": 22, "minDelay": 4, "maxDelay": 9 },
+    "openResultRate": 0.12
+  },
+  "dailySet": {
+    "enabled": true,
+    "settleMs": 6000,
+    "maxRounds": 2
+  },
+  "notify": {
+    "type": "",
+    "webhook": "",
+    "telegramChatId": ""
+  },
+  "stateFile": "./state.json",
+  "logDir": "./logs"
+}

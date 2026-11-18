@@ -1,0 +1,25 @@
+# ---- 构建产物 ----
+*.exe
+*.pdb
+*.dll
+
+# ---- 运行期数据：务必不要提交 ----
+# Edge 独立浏览器配置，里面带着登录态 cookie
+profile/
+src-bot/profile/
+# 每日运行记录 / 积分快照
+state.json
+src-bot/state.txt
+# 日志
+logs/
+src-bot/logs/
+
+# ---- 依赖 ----
+node_modules/
+package-lock.json
+
+# ---- 系统垃圾 ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
