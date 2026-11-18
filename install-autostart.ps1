@@ -1,4 +1,4 @@
-# Installs a per-user autostart shortcut (no admin rights needed).
+﻿# Installs a per-user autostart shortcut (no admin rights needed).
 #
 # Why this exists: registering a Windows Scheduled Task needs an elevated token,
 # and creating the login-time shortcut does not. Combined with the built-in

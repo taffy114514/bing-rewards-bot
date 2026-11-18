@@ -265,3 +265,21 @@ Rewards 的卡片在 `<mee-*>` 自定义元素的 open shadow root 里，`docume
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## 发布到 GitHub
+
+仓库已 `git init` 并提交好，用自带脚本一键建仓库 + 推送：
+
+```powershell
+# 1) 生成 token: https://github.com/settings/tokens -> Generate new token (classic)，勾 repo
+# 2) 在本目录执行：
+.\publish.ps1 -Token "ghp_xxxxxxxx"
+```
+
+脚本会校验 token、创建仓库、推送 `main`，完成后打印仓库地址。
+token 只通过 `http.extraHeader` 传给 git，**不会写进 `.git/config`**，用完去同一页面 Revoke 即可。
+
+> 注意：`.gitignore` 已排除 `profile/`、`state.txt`、`logs/`、`*.exe`、`node_modules/`。
+> 其中 `profile/` 带着登录态 cookie，**永远不要提交**。

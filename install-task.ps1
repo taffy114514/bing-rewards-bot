@@ -1,4 +1,4 @@
-# Registers / removes the daily Windows scheduled task for Bing Rewards.
+﻿# Registers / removes the daily Windows scheduled task for Bing Rewards.
 # Written in pure ASCII on purpose: Windows PowerShell 5.1 decodes BOM-less
 # script files with the system ANSI code page, so non-ASCII text here breaks parsing.
 #
